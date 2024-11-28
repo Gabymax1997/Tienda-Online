@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.right-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #3498db;  /* Un color azul */
+    padding: 20px;
+    color: rgb(122, 29, 29);
+    }
